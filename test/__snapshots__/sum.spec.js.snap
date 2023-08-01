@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`toMatchSnapshot 1`] = `
+{
+  "bar": Set {
+    1,
+  },
+  "foo": {
+    "x": Any<Number>,
+    "y": 2,
+  },
+}
+`;
